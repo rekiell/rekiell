@@ -4,7 +4,7 @@
 
 <div>
   <h2> Meus Status </h2>
-  <img width='40%' aling='left' src='https://github-readme-stats.vercel.app/api?username=rekiell&show_icons=true&theme=radical' />
+  <img width='48%' aling='left' src='https://github-readme-stats.vercel.app/api?username=rekiell&show_icons=true&theme=radical'/>
   <img width='40%' aling='right'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact'/>
 </div>
 
@@ -25,8 +25,8 @@
   <h4> - Linguagens que eu sei : </h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width='5%'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width='5%'/>      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='5%'/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='4%'/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width='5%'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='5%'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='7%'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width='5%'/>   
 </div>
