@@ -5,7 +5,7 @@
 <div>
   <h2> Meus Status </h2>
   <img width='48%' aling='left' src='https://github-readme-stats.vercel.app/api?username=rekiell&show_icons=true&theme=radical'/>
-  <img width='40%' aling='right'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact'/>
+  <img width='40%' aling='right'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=rekiell&layout=compact'/>
 </div>
 
 <div>
