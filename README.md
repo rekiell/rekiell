@@ -17,7 +17,7 @@
       Idade 🕝: 25 anos
     </p>  
    <p> 
-      Sou fullstack Developer, amo o ramo de programação, e tive meu primeiro contato aos 12 anos fazendo um  servidor privado de mu para jogar com meus amigos, com o tempo fui aprendendo algumas coisas até que decidi ir para o caminho profissional entrando no curso para aprimorar meus conhecimentos. Desejo trabalhar na área de web dev como front-end, tenho um grande desejo de aprender e mostrar o que eu posso fazer! 
+      Sou fullstack Developer, amo o ramo de programação, e tive meu primeiro contato aos 12 anos fazendo um  servidor privado de mu para jogar com meus amigos, com o tempo fui aprendendo algumas coisas até que decidi ir para o caminho profissional entrando no curso para aprimorar meus conhecimentos. Tenho sempre uma grande vontade aprender e mostrar o que eu posso fazer! 
   </p>
 </div>
 
